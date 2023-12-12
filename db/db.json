@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "chanchala",
+      "email": "chanchala@test.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Niranjan",
+      "email": "niranjan@test",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Niranjan",
+      "email": "niranjan@test.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "email": "ashish@test.com",
+      "password": "abc@123",
+      "name": "Ashish",
+      "id": 4
+    },
+    {
+      "email": "rina@test.com",
+      "password": "abc@123",
+      "name": "Rina",
+      "id": 5
+    },
+    {
+      "email": "chandan@test.com",
+      "password": "abc@123",
+      "name": "Chandan",
+      "id": 6
+    },
+    {
+      "email": "batman@test.com",
+      "password": "abc@123",
+      "name": "Batman",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "ashish1@test.com",
+      "password": "abc@123",
+      "name": "Ashish1",
+      "id": 9
+    },
+    {
+      "email": "ashish2@test.com",
+      "password": "abc@123",
+      "name": "Ashish2",
+      "id": 10
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Noida sector 6"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 2222,
+      "address": "Mumbai sector 6"
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hutzz",
+      "contact": 3333,
+      "address": "Noida sector 6"
+    },
+    {
+      "id": 4,
+      "name": "KFC",
+      "contact": 4444,
+      "address": "BHUBNESWER sector 6"
+    },
+    {
+      "name": "RCB Resto",
+      "address": "Noida sector 555",
+      "contact": "00000",
+      "id": 5
+    },
+    {
+      "name": "Starbucks",
+      "address": "Delhi",
+      "contact": "1234",
+      "id": 6
+    },
+    {
+      "name": "KFC",
+      "address": "NCR",
+      "contact": "64272278",
+      "id": 10
+    }
+  ]
+}
